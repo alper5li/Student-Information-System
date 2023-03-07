@@ -1,0 +1,36 @@
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\bin\Debug\Final.Project.C.exe.config
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\bin\Debug\Final.Project.C.exe
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\bin\Debug\Final.Project.C.pdb
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.csproj.SuggestedBindingRedirects.cache
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.Form1.resources
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.Properties.Resources.resources
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.exe
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.pdb
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\bin\Debug\x86\sqlite3.dll
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\bin\Debug\x64\sqlite3.dll
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\bin\Debug\System.Data.SQLite.dll
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\bin\Debug\System.Data.SQLite.xml
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.csproj.CopyComplete
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.Register.resources
+C:\Users\alper\Desktop\C# OOP Dosyaları\Final.Project.C\obj\Debug\Final.Project.C.TermCon.resources
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.csproj.AssemblyReference.cache
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.csproj.SuggestedBindingRedirects.cache
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.Form1.resources
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.Properties.Resources.resources
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.Register.resources
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.TermCon.resources
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.csproj.GenerateResource.cache
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.csproj.CoreCompileInputs.cache
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.exe
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.pdb
+C:\Codecanyon\SMS\bin\Debug\x86\sqlite3.dll
+C:\Codecanyon\SMS\bin\Debug\x64\sqlite3.dll
+C:\Codecanyon\SMS\bin\Debug\Final.Project.C.exe.config
+C:\Codecanyon\SMS\bin\Debug\Final.Project.C.exe
+C:\Codecanyon\SMS\bin\Debug\Final.Project.C.pdb
+C:\Codecanyon\SMS\bin\Debug\System.Data.SQLite.dll
+C:\Codecanyon\SMS\bin\Debug\System.Data.SQLite.xml
+C:\Codecanyon\SMS\obj\Debug\Final.Project.C.csproj.CopyComplete
